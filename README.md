@@ -6,10 +6,11 @@ Click here to purchase one from the Adafruit shop</a>
 <a href="http://www.adafruit.com/products/5664"><img src="assets/5664-01.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
-PCB files for the Adafruit PCA9546 4-Channel I2C Multiplexer. 
+PCB files for the Adafruit PCA9546 4-Channel I2C Multiplexer and STEMMA QT / Qwiic PCA9546 Breakout. 
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/5663
+* https://www.adafruit.com/product/5664
 
 ### Description
 
